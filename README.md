@@ -1,8 +1,7 @@
 - 👋 Hi, I’m NARESH@facjack
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I think hacking is cool
+- 💞️ I’m looking to collaborate on making C
+- 📫 How to reach me gachinaresh@gmail.com
 
 <!---
 NARESH-17BCS018/NARESH-17BCS018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
