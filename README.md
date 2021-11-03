@@ -1,6 +1,5 @@
 - 👋 Hi, I’m NARESH@facjack
 - 👀 I think hacking is cool
-- 💞️ I’m looking to collaborate on making C
 - 📫 How to reach me gachinaresh@gmail.com
 
 <!---
